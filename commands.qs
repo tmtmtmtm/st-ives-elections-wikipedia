@@ -1,9 +1,4 @@
-CREATE
-LAST	P31	Q5
-LAST	Len	"Alana Bates"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q988435	P102	Q9630	P1111	3553	P1352	3	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
+Q76363246	P3602	Q30173038	P768	Q988435	P102	Q9630	P1111	3553	P1352	3	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q4710053	P3602	Q3042701	P768	Q988435	P102	Q9630	P1111	6659	P1352	2	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q4710053	P3602	Q3084294	P768	Q988435	P102	Q9630	P1111	2749	P1352	3	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q4714076	P3602	Q918397	P768	Q988435	P102	Q1354368	P1111	14256	P1352	1	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
@@ -188,12 +183,7 @@ LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918472	P768	Q988435	P102	Q40052	P1111	17619	P1352	2	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 LAST	P3602	Q918466	P768	Q988435	P102	Q40052	P1111	16438	P1352	2	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Ian Flindall"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q988435	P102	Q9669	P1111	964	P1352	4	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
+Q75975127	P3602	Q30173038	P768	Q988435	P102	Q9669	P1111	964	P1352	4	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Ian Hope"
@@ -233,12 +223,7 @@ LAST	Len	"John Dennis Gilbert Kellock"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q3722280	P768	Q988435	P102	Q622441	P1111	5273	P1352	3	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"John Harris"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q988435	P102	Q98601401	P1111	132	P1352	6	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
+Q75996303	P3602	Q30173038	P768	Q988435	P102	Q98601401	P1111	132	P1352	6	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q333406	P3602	Q918442	P768	Q988435	P102	Q9626	P1111	18581	P1352	1	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q333406	P3602	Q918450	P768	Q988435	P102	Q9626	P1111	22352	P1352	1	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q333406	P3602	Q918508	P768	Q988435	P102	Q9626	P1111	17198	P1352	1	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
@@ -337,12 +322,7 @@ LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q3586935	P768	Q988435	P102	Q161957	P1111	518	P1352	6	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 Q17479311	P3602	Q3943728	P768	Q988435	P102	Q2633397	P1111	256	P1352	1	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Robert Smith"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q988435	P102	Q3360801	P1111	314	P1352	5	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
+Q76131187	P3602	Q30173038	P768	Q988435	P102	Q3360801	P1111	314	P1352	5	S4656	"https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Roland Edmund Lomax Vaughan-Williams"

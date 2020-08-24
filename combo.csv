@@ -1,10 +1,10 @@
 foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
 ,Q20177497,Derek Thomas,Q9626,Conservative Party (UK),25365,Q30173038,General election 2019,1
 Q391275,Q391275,Andrew George,Q9624,Liberal Democrats (UK),21085,Q30173038,General election 2019,2
-,,Alana Bates,Q9630,Labour Party (UK),3553,Q30173038,General election 2019,3
-,,Ian Flindall,Q9669,Green Party of England and Wales,964,Q30173038,General election 2019,4
-,,Robert Smith,Q3360801,"Liberal Party (UK, 1989)",314,Q30173038,General election 2019,5
-,,John Harris,Q98601401,Common People,132,Q30173038,General election 2019,6
+Q76363246,,Alana Bates,Q9630,Labour Party (UK),3553,Q30173038,General election 2019,3
+Q75975127,,Ian Flindall,Q9669,Green Party of England and Wales,964,Q30173038,General election 2019,4
+Q76131187,,Robert Smith,Q3360801,"Liberal Party (UK, 1989)",314,Q30173038,General election 2019,5
+Q75996303,,John Harris,Q98601401,Common People,132,Q30173038,General election 2019,6
 ,Q20177497,Derek Thomas,Q9626,Conservative Party (UK),22120,Q25052149,General election 2017,1
 Q391275,Q391275,Andrew George,Q9624,Liberal Democrats (UK),21808,Q25052149,General election 2017,2
 ,,Christopher Drew,Q9630,Labour Party (UK),7298,Q25052149,General election 2017,3
