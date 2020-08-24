@@ -10,8 +10,11 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "By-election, 24 May 1838": "Q98601404"
     },
     "party" : {
+      "Cornish Democrats": "Q39937470",
+      "Common People": "Q98601401"
     }
   }
 }
