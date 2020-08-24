@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/St_Ives_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q988435",
+    "start": "1832",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
