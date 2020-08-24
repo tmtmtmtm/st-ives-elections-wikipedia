@@ -4,7 +4,7 @@ Q391275,Andrew George,Q9624,Liberal Democrats (UK),21085,Q30173038,General elect
 ,Alana Bates,Q9630,Labour Party (UK),3553,Q30173038,General election 2019,3
 ,Ian Flindall,Q9669,Green Party of England and Wales,964,Q30173038,General election 2019,4
 ,Robert Smith,Q3360801,"Liberal Party (UK, 1989)",314,Q30173038,General election 2019,5
-,John Harris,,Common People,132,Q30173038,General election 2019,6
+,John Harris,Q98601401,Common People,132,Q30173038,General election 2019,6
 Q20177497,Derek Thomas,Q9626,Conservative Party (UK),22120,Q25052149,General election 2017,1
 Q391275,Andrew George,Q9624,Liberal Democrats (UK),21808,Q25052149,General election 2017,2
 ,Christopher Drew,Q9630,Labour Party (UK),7298,Q25052149,General election 2017,3
@@ -19,7 +19,7 @@ Q20177497,Derek Thomas,Q9626,Conservative Party (UK),17900,Q215622,General elect
 ,Philippa Latimer,Q9630,Labour Party (UK),3751,Q215622,General election 2010,3
 ,Michael Faulkner,Q10647,UK Independence Party,2560,Q215622,General election 2010,4
 ,Tim Andrewes,Q9669,Green Party of England and Wales,1308,Q215622,General election 2010,5
-,Johnathan Rogers,,Cornish Democrats,396,Q215622,General election 2010,6
+,Johnathan Rogers,Q39937470,Cornish Democrats,396,Q215622,General election 2010,6
 ,Simon Reed,Q161957,Mebyon Kernow,387,Q215622,General election 2010,7
 Q391275,Andrew George,Q9624,Liberal Democrats (UK),25577,Q428598,General election 2005,1
 ,Christian Mitchell,Q9626,Conservative Party (UK),13968,Q428598,General election 2005,2
@@ -135,8 +135,8 @@ Q338053,William Powlett,Q9626,Conservative Party (UK),262,Q2073198,General elect
 Q7172892,Peter Borthwick,Q9626,Conservative Party (UK),141,Q2073198,General election 1847,2
 Q26277838,William Tyringham Praed,Q9626,Conservative Party (UK),272,Q2073185,General election 1841,1
 ,Edwin Ley,Q9626,Conservative Party (UK),268,Q2073185,General election 1841,2
-Q26277838,William Tyringham Praed,Q9626,Conservative Party (UK),256,,"By-election, 24 May 1838",1
-,Francis Hearle Stephens,Q9626,Conservative Party (UK),248,,"By-election, 24 May 1838",2
+Q26277838,William Tyringham Praed,Q9626,Conservative Party (UK),256,Q98601404,"By-election, 24 May 1838",1
+,Francis Hearle Stephens,Q9626,Conservative Party (UK),248,Q98601404,"By-election, 24 May 1838",2
 Q8016977,William Pole-Tylney-Long-Wellesley,Q499956,Tories (British political party),217,Q969827,General election 1830,1
 Q6140050,James Morrison,Q108700,Whigs (British political party),181,Q969827,General election 1830,2
 Q17180636,James Halse,Q499956,Tories (British political party),151,Q969827,General election 1830,3
